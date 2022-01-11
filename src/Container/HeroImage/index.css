@@ -1,0 +1,39 @@
+.Box1 {
+  position: absolute;
+  width: 46%;
+  height: 230px;
+  -webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 80%);
+  clip-path: polygon(0 0, 100% 0%, 100% 85%, 0 80%);
+  background-repeat: repeat;
+  background-image: url(../../img/heroImg1.jpg);
+  z-index: 100;
+}
+.Box2 {
+  position: absolute;
+  -webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 80%);
+  clip-path:polygon(0 5%, 100% 0%, 100% 100%, 0 100%);
+  background-repeat: repeat;
+  z-index: 102;
+  background-image: url(../../img/heroImg2.jpg);
+  bottom: 0px;
+    right: 0px;
+    width: 46%;
+    height: 230px;
+}
+.circle {
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background-color: #EE3025;
+  left: 114px;
+    top: 13px;
+
+}
+
+.wrapper {
+  width: 100%;
+  /* may remove width:100%, as div is always 100% */
+  margin: 0 auto;
+  overflow: hidden;
+}

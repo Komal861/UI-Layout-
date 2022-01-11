@@ -1,0 +1,28 @@
+.BusinessInfoPage {
+  margin-top: 10%;
+}
+
+.BusinessInfoForm {
+  background-color: #e5e5e5;
+}
+
+h2 {
+  color: #ee3025;
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+}
+.position {
+  padding-right:20px; 
+  height: 90%;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.infoStyle {
+  margin-left: 34px;
+    margin-bottom: 36px;
+    margin-top: 14px;
+    margin-left: 20px
+}

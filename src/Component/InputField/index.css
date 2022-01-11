@@ -1,0 +1,14 @@
+.inputStyle {
+    width: 100%;
+    padding: 6px 16px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+  }
+
+  .labelStyle {
+    font-family: Futura PT;
+    font-size: 14px;
+  }

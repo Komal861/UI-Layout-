@@ -1,0 +1,11 @@
+.ButtonStyle {
+  /* position: absolute;
+  left: 49.38%;
+  right: 39.76%;
+  top: 76.27%;
+  bottom: 20.94%; */
+  margin-top: 10px;
+  padding: 10PX;
+  background: #ee3025;
+  border-radius: 5px;
+}
